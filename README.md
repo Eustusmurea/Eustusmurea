@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Eustus Mwirigi!About Me 🧐<br>I am a Data scientist, full-stack software engineer with a passion for system engineering and devops.<br><br>Skills 💡<br>My diverse skill set includes proficiency in several programming languages and technologies, such as:<br><br>C<br>Python<br>Shell<br>Assembly<br>Jupyter Notebook<br>Puppet<br>Ruby<br>HTML<br>CSS<br>Projects 🚀<br>Here are some of my notable projects that cover various domains, demonstrating my versatility and passion for exploration:<br><br>alx-low_level_programming - Repository for low-level programming in C.<br>craiglist-vehicles - Repository containing information on craigslist vehicles.<br>alx-system_engineering-devops - Repository for system engineering and devops projects.<br>GitHub Stats 📊<br>Below are some GitHub stats that highlight my contributions and activity:<br><br>Github Stats<br>Top Langstrophy<br><br>Connect With Me 📫<br>Stay connected with me through the following channels:<br><br>GitHub: Eustusmurea<br>Email: eustusmurea@gmail.com<br>Feel free to reach out to me for any collaborations, programming queries, or discussions. Let's connect and build amazing projects together!<br><br>Badges 🔥<br>Showcasing my skills and achievements with some visually appealing badges:<br><br>C Badge<br>Python Badge<br>Shell Badge<br>HTML Badge<br>Thank you for exploring my GitHub profile. I look forward to interacting with you and collaborating on exciting projects!
+Hi there 👋, I'm Eustus Mwirigi!About Me 🧐<br>I am a Data scientist, full-stack software engineer with a passion for system engineering and devops.<br><br>Skills 💡<br>My diverse skill set includes proficiency in several programming languages and technologies, such as:<br><br>C<br>Python<br>Shell<br>Assembly<br>Jupyter Notebook<br>Puppet<br>Ruby<br>HTML<br>CSS<br>Projects 🚀<br>Here are some of my notable projects that cover various domains, demonstrating my versatility and passion for exploration:<br><br>alx-low_level_programming - Repository for low-level programming in C.<br>craiglist-vehicles - Repository containing information on craigslist vehicles.<br>alx-system_engineering-devops - Repository for system engineering and devops projects.<br><br>Connect With Me 📫<br>Stay connected with me through the following channels:<br><br>GitHub: Eustusmurea<br>Email: mwirigieustus7@gmail.com<br>Feel free to reach out to me for any collaborations, programming queries, or discussions. Let's connect and build amazing projects together!Thank you for exploring my GitHub profile. I look forward to interacting with you and collaborating on exciting projects!
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@ Hi there 👋, I'm Eustus Mwirigi!About Me 🧐<br>I am a Data scientist, full-s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eustusmurea&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
