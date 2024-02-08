@@ -29,11 +29,6 @@ Feel free to reach out to me for collaborations, data science projects, or discu
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eustusmurea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eustusmurea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eustusmurea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
