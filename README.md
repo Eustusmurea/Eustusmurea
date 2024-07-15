@@ -1,5 +1,6 @@
 #  About Me:
-Hey there! 👋 I'm Eustus Mwirigi, a Full Stack Software Engineer with a strong focus on data science and full-stack development.
+Hey there! 👋 I'm Eustus Mwirigi, a Full Stack Software Engineer
+I also talk about data science.
 
 ## Skills 💡
 My expertise spans both data science and full-stack engineering, encompassing a range of programming languages and technologies essential for these fields:
@@ -15,7 +16,7 @@ Stay connected with me through the following channels:
 - LinkedIn: [Eustus Mwirigi](https://www.linkedin.com/in/eustus-mwirigi/)
 - Email: [mwirigieustus7@gmail.com](mailto:mwirigieustus7@gmail.com)
 
-Feel free to reach out to me for collaborations, data science projects, or discussions related to full-stack development. Let's connect and work on exciting projects together! Thank you for exploring my GitHub profile. I'm eager to engage with you and collaborate on innovative ventures!
+Please contact me for collaborations, data science projects, or talks about full-stack development. Let's connect and work on exciting projects together! Thank you for exploring my GitHub profile. I'm eager to engage with you and collaborate on innovative ventures!
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eustus)
